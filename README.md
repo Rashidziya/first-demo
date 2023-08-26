@@ -1,2 +1,3 @@
 # first-demo
-my first repository -by apna college
+My first repository -by Apna College
+way to learning the git and github
