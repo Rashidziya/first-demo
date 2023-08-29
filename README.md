@@ -1,3 +1,3 @@
 # first-demo
 My first repository -by Apna College<br>
-way to learning the git and github
+way to learn the git and GitHub
